@@ -24,6 +24,29 @@ Interactive Power BI dashboards built using the latest Power BI tools that help 
 
 ---
 
+## 🔥 Project Highlights
+
+- 📊 Analyzed **3,000+ banking clients** with 25+ financial features  
+- 🧹 Performed **data cleaning & feature engineering** (Income Band, Engagement Days)  
+- 📈 Conducted **EDA & correlation analysis** to identify risk patterns  
+- 💳 Discovered **debt clustering behavior** (Loans vs Credit Card usage)  
+- 💰 Built **interactive Power BI dashboard** with KPIs:
+  - Total Loans
+  - Total Deposits
+  - Total Fees
+  - Client Engagement  
+- 🎯 Enabled **data-driven loan approval decisions** based on client risk profiling  
+- 📉 Identified key relationships between **income, deposits, and financial behavior**  
+
+## 🎯 Business Impact
+
+- Helps banks **reduce loan default risk**
+- Improves **customer risk segmentation**
+- Supports **data-driven financial decision-making**
+
+
+
+
 ## Project Structure
 
 ```
@@ -61,6 +84,8 @@ Banking--main/
 ```
 
 ---
+
+
 
 ## About the Dataset
 
@@ -124,6 +149,8 @@ Four key transformations applied to the dataset:
 **DAX functions used:** `SUM`, `SUMX`, `DISTINCTCOUNT`, `SWITCH`, `DATEDIFF`
 
 ---
+
+**Keywords:** Data Analytics, Banking Analytics, Risk Analysis, Loan Prediction, Financial Data Analysis, Power BI Dashboard, Business Intelligence, Exploratory Data Analysis (EDA), Data Visualization, KPI Dashboard, Customer Segmentation
 
 ## Python EDA — Analysis Performed
 
